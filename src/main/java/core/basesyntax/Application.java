@@ -1,7 +1,5 @@
 package core.basesyntax;
 
-import java.util.Random;
-
 public class Application extends Lottery {
     public static void main(String[] args) {
         Lottery lottery = new Lottery();
